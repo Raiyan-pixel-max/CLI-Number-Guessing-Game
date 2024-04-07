@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "name": "raiyan-cli-number-guessing-game",
+  "version": "1.0.3",
+  "main": "main.js",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raiyan Ahmed",
+  "license": "MIT",
+  "description": ""
+}
